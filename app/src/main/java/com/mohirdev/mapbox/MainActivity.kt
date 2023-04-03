@@ -26,7 +26,6 @@ import com.mapbox.maps.plugin.locationcomponent.location
 import com.mohirdev.mapbox.databinding.ActivityMainBinding
 import java.lang.ref.WeakReference
 
-
 /**
  * Tracks the user location on screen, simulates a navigation session.
  */
